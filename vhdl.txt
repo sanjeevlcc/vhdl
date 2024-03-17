@@ -64,6 +64,16 @@ Overall, VHDL is a powerful hardware description language
 
 
 
+===========================================================================
+There are several software tools available for
+designing, simulating, and synthesizing 
+VHDL (VHSIC Hardware Description Language) designs.
+===========================================================================
+Some popular software tools that support VHDL include:
 
-
-      
+      Xilinx Vivado: 
+      Altera Quartus Prime: 
+      ModelSim: 
+      Synopsys Design Compiler:
+      GHDL: 
+      Cadence Incisive: 
